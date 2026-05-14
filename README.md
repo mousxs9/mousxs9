@@ -1,4 +1,3 @@
-
 🎓 Ciência da Computação - Instituto Federal do Maranhão
 📍 Imperatriz - MA
 
